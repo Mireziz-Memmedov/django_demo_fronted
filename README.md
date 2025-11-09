@@ -1,1 +1,1 @@
-# django_demo_fronted
+# start3-django
